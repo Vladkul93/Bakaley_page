@@ -1199,6 +1199,8 @@ a {
   padding-left: 180px;
   position: relative;
   top: -100px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 .img-recipe {
@@ -1272,7 +1274,6 @@ a {
 }
 
 .content-class__subtitle {
-  max-width: 290px;
   width: 100%;
   font-family: 'ProximaNova';
   font-size: 14px;
@@ -1888,10 +1889,6 @@ body {
 
   .content-class__time {
     display: none;
-  }
-
-  .recipe-content__box {
-    margin: 0 auto;
   }
 
   .tilda-none {
